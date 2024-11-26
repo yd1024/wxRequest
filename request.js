@@ -1,5 +1,5 @@
 import { BASE_URL } from "@/common/config";
-import { getToken, clearAll } from "@/utils/auth";
+import { getToken, clearAll } from "./auth";
 
 const apiHost = BASE_URL;
 
